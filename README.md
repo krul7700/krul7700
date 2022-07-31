@@ -67,7 +67,7 @@
 <img src=https://img.shields.io/badge/pinterest-%2324292e.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
 </a>  
 <a href="discord.com/users/373208322960130050" target="_blank">
-<img src=https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
