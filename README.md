@@ -61,10 +61,10 @@
 <img src=https://img.shields.io/badge/youtube-%2324292e.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/krul1204" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://pinterest.com/krul1204" target="_blank">
-<img src=https://img.shields.io/badge/pinterest-%23000000.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/pinterest-%2324292e.svg?&style=for-the-badge&logo=pinterest&logoColor=white alt=pinterest style="margin-bottom: 5px;" />
 </a>  
 <a href="discord.com/users/373208322960130050" target="_blank">
 <img src=https://img.shields.io/badge/discord-%23000000.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
